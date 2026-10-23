@@ -1,9 +1,5 @@
 # Phishing URL Detection Using Machine Learning
 
-**Author:** Rashmi Nagarkoti  
-**Programme:** BCA (AI & Data Science)  
-**Submission:** IBM SkillsBuild Cyber Security BootCamp 2026 — BharatCares
-
 ## Project description
 This student project builds a baseline machine-learning model to classify URL text as **potential phishing (label 0)** or **likely legitimate (label 1)**. It uses character-level TF–IDF features and Logistic Regression. The notebook includes data cleaning, exploratory analysis, a stratified train/test split, evaluation metrics, a confusion matrix, and a function for testing a URL string without visiting it.
 
